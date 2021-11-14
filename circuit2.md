@@ -21,3 +21,7 @@ https://wenku.baidu.com/view/3f8cb93543323968011c927b.html
 定义：脉冲宽度调制(PWM)，是英文“Pulse Width Modulation”的缩写，简称**脉宽调制**
 
 工作原理：通过调节一个周期内高电平的占比（占空比）来调节输出电压
+
+**引脚对应功能：**
+
+![QQ截图20211114134200](C:\Users\Sakuya\Desktop\作业\狼牙团队成长培养\验收文件夹\QQ截图20211114134200.png)
